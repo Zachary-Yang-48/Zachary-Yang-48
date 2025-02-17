@@ -1,7 +1,7 @@
 <!-- Optional fancy banner or ASCII art -->
 <div align="center">
   <img src="https://github.com/Zachary-Yang-48/Zachary-Yang-48/blob/f2284279b47b1c286bf4899a2081333d8115f4de/husky.png" alt="Zachary Yang | Data Engineer" 
-    width="600" 
+    width="200" 
     />
 </div>
 
