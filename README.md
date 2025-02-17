@@ -1,6 +1,6 @@
 <!-- Optional fancy banner or ASCII art -->
 <div align="center">
-  <img src="https://www.instagram.com/p/Cn43MJereo5/?img_index=1" alt="Zachary Yang | Data Engineer" style="width:100%;"/>
+  <img src="https://github.com/Zachary-Yang-48/Zachary-Yang-48/blob/f2284279b47b1c286bf4899a2081333d8115f4de/husky.png" alt="Zachary Yang | Data Engineer" style="width:100%;"/>
 </div>
 
 # Hi, I’m Zhongbo (Zachary) Yang! 👋 
