@@ -1,6 +1,6 @@
 <!-- Optional fancy banner or ASCII art -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-placeholder-banner.png" alt="Banner that says Zachary Yang | Data Engineer" style="width:100%;"/>
+  <img src="https://www.instagram.com/p/Cn43MJereo5/?img_index=1" alt="Zachary Yang | Data Engineer" style="width:100%;"/>
 </div>
 
 # Hi, I’m Zhongbo (Zachary) Yang! 👋 
