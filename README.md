@@ -49,7 +49,7 @@ When I’m not crafting resilient data infrastructures, you’ll find me explori
 
 ---
 
-## 📊 Fun GitHub Stats (Optional)
+## 📊 Fun GitHub Stats (Nothing special here as I am not allowed to contribute to firm project with personal Github account)
 
 <!-- Use a GitHub stats tool of your choice, e.g., anuraghazra/github-readme-stats -->
 <p align="center">
