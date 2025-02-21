@@ -65,8 +65,7 @@ When I’m not crafting resilient data infrastructures, you’ll find me explori
 
 I love connecting with like-minded engineers, data nerds, and anyone curious about data-driven solutions. Feel free to reach out:
 
-- **LinkedIn**: [YourLinkedInProfile](#)
-- **GitHub**: [GitHub.com/YOUR-GITHUB-USERNAME](#)
+- **LinkedIn**: [https://www.linkedin.com/in/zachary-yang-h48/](#)
 - **Email**: z367yang@gmail.com
 
 *Got an exciting project or idea? I’m all ears!*  
