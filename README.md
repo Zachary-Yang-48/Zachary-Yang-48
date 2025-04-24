@@ -55,8 +55,8 @@ When I’m not crafting resilient data infrastructures, you’ll find me explori
 
 <!-- Use a GitHub stats tool of your choice, e.g., anuraghazra/github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=react" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=react" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zachary-Yang-48&show_icons=true&theme=react" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zachary-Yang-48&layout=compact&theme=react" height="165">
 </p>
 
 ---
